@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "onebithealth",
+    "name": "IMC.D7",
     "slug": "onebithealth",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,10 +23,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      },
+      "package": "com.Douglastx7.IMC.D7",
+      "versionCode": 1
     }
+  
   }
 }
